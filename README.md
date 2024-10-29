@@ -36,17 +36,6 @@ The primary objective of this project is to create a reliable, efficient tool fo
 - **Generate Design**: Run the macro by clicking the designated button (typically labeled “Generate Design”). The tool will automatically calculate and display the foundation design based on your input.
 - **View Results**: View the results, which include design details, reinforcement calculations, and—if applicable—P-M interaction curves.
 
-## 📊 Example Outputs
-
-### 🏢 Isolated Footing Biaxial Design
-*This output example shows the calculated biaxial isolated footing design with reinforcement details, ensuring structural stability under biaxial loading.*
-
-### 🧱 Pile Cap Design
-*The pile cap design provides reinforcement specifications and geometric dimensions based on load inputs, tailored for efficient load distribution among piles.*
-
-### 🏛️ Pier Foundation with P-M Interaction Curve
-*Includes automatically generated P-M interaction curves in line with IRC and IS code standards, ensuring the pier foundation design meets safety and regulatory requirements.*
-
 ## 🔧 Technologies Used
 - **Microsoft Excel**: Advanced formulas and macros for automation.
 - **VBA (Visual Basic for Applications)**: Embedded in Excel files to perform calculations and automate design processes.
